@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate in the development of ecommerce and web pages / Estoy buscando colaborar en el desarrolllo de ecommerce y pagias web
 - 📫 How to reach me to email heiberg.a.dominguez@gmail.com /Cómo comunicarse conmigo al correo electrónico heiberg.a.dominguez@gmail.com
 
-skill
+
 <br>
-	
 	<img src="https://img.shields.io/badge/developer-Heiberg Dominguez-green">
 	
 
