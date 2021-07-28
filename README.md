@@ -5,7 +5,7 @@
 - 📫 How to reach me to email heiberg.a.dominguez@gmail.com /Cómo comunicarse conmigo al correo electrónico heiberg.a.dominguez@gmail.com
 
 skill
-https://img.shields.io/badge/<PHPL>-<MESSAGE>-<COLOR>
+https://img.shields.io/badge/PHPL-developer-green
 
 <!---
 heibergd/heibergd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
