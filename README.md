@@ -5,7 +5,7 @@
 - 📫 How to reach me to email heiberg.a.dominguez@gmail.com /Cómo comunicarse conmigo al correo electrónico heiberg.a.dominguez@gmail.com
 
 skill
-	/aur/maintainer/:packageName
+	<img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
 
 <!---
 heibergd/heibergd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
